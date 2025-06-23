@@ -1,0 +1,2 @@
+# MAX6675
+MAX6675 library
